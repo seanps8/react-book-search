@@ -1,0 +1,5 @@
+.navbar, .navbar-brand, .search, .saved {
+    background-color: rgb(255, 123, 0);
+    color: white;
+    padding: 10px;
+}
